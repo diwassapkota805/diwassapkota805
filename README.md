@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Diwas!
 
-[Linkedin](www.linkedin.com/in/diwassapkota) [Resume]() <br />
+[Linkedin](https://www.linkedin.com/in/diwassapkota) [Resume]() <br />
 
 
 I am a Computer Science student at University of Texas at Arlington. <br />
