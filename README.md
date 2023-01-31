@@ -3,7 +3,9 @@
 [Linkedin](https://www.linkedin.com/in/diwassapkota) [Resume]() <br />
 
 
-I am a Computer Science student at University of Texas at Arlington. <br />
+ I'm a computer science student at the University of Texas at Arlington,</br>
+ set to graduate in May 2025.I'm passionate about programming and eager </br>
+ to expand my knowledge and skills in the field.</br>
 
 ![Diwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=diwassapkota805&show_icons=true&theme=radical)
 
