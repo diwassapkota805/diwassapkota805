@@ -1,6 +1,6 @@
 f## Hi there 👋, I'm Diwas!
 
-[Personal Website](https://personal-website-navy-one.vercel.app/)  |  [Resume]([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1LMuLm86x5lFUgdKcJnjLhEjAySeQh2TW/view?usp=sharing))  |  [Linkedin](https://www.linkedin.com/in/diwassapkota)<br />
+[Personal Website](https://personal-website-navy-one.vercel.app/)  |  [Resume](https://drive.google.com/file/d/1LMuLm86x5lFUgdKcJnjLhEjAySeQh2TW/view?usp=sharing)  |  [Linkedin](https://www.linkedin.com/in/diwassapkota)<br />
 
 
   I'm a computer science student with a passion for technology and a</br>
