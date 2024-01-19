@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Diwas!
+f## Hi there 👋, I'm Diwas!
 
-[Linkedin](https://www.linkedin.com/in/diwassapkota) [Resume]() <br />
+[Personal Website](https://personal-website-navy-one.vercel.app/)[Linkedin](https://www.linkedin.com/in/diwassapkota) [Resume](https://drive.google.com/drive/u/0/home) <br />
 
 
   I'm a computer science student with a passion for technology and a</br>
