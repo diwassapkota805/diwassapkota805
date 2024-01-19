@@ -1,4 +1,4 @@
-f## Hi there 👋, I'm Diwas!
+Hi there 👋, I'm Diwas!
 
 [Personal Website](https://personal-website-navy-one.vercel.app/)     |     [Resume](https://drive.google.com/file/d/1LMuLm86x5lFUgdKcJnjLhEjAySeQh2TW/view?usp=sharing)     |  [Linkedin](https://www.linkedin.com/in/diwassapkota)<br />
 
